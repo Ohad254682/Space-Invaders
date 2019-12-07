@@ -9,7 +9,7 @@
     text-align: center;
     height:50px;
     width:100%;
-    background-image: url('img/background\ top\ bar.jpg');
+    background-image: url('IMG/background-top-bar.jpg');
     background-size:50px;
 }
 
@@ -19,7 +19,7 @@
     width: 80%;
     height:90%;
     margin: auto;
-    background-image: url("img/background\ space.png");
+    background-image: url("IMG/background-space.png");
     overflow:hidden;
     animation: scrollBg infinite 100s linear ;
 
